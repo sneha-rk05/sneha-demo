@@ -1,1 +1,2 @@
-# sneha-demo
+#Sample project
+#Author - Sneha Ramakrishnan
